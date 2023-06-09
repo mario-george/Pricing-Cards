@@ -2,4 +2,4 @@
 
 Pricing Cards Project.
 
-![Alt text](images/pricing-cards.png)
+![Alt text](images/pricingCards.png)
